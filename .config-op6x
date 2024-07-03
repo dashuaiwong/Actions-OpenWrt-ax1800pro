@@ -2690,7 +2690,7 @@ CONFIG_NSS_DRV_VLAN_ENABLE=y
 # CONFIG_PACKAGE_kmod-qca-nss-drv-bridge-mgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-clmapmgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-eogremgr is not set
-CONFIG_PACKAGE_kmod-qca-nss-drv-gre=y
+# CONFIG_PACKAGE_kmod-qca-nss-drv-gre is not set
 CONFIG_PACKAGE_kmod-qca-nss-drv-igs=y
 # CONFIG_PACKAGE_kmod-qca-nss-drv-l2tpv2 is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-lag-mgr is not set
