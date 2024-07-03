@@ -2644,14 +2644,14 @@ CONFIG_PACKAGE_kmod-qca-nss-drv=y
 # CONFIG_NSS_MEM_PROFILE_HIGH is not set
 CONFIG_NSS_MEM_PROFILE_MEDIUM=y
 # CONFIG_NSS_MEM_PROFILE_LOW is not set
-CONFIG_NSS_DRV_BRIDGE_ENABLE=y
+# CONFIG_NSS_DRV_BRIDGE_ENABLE is not set
 # CONFIG_NSS_DRV_CAPWAP_ENABLE is not set
 # CONFIG_NSS_DRV_C2C_ENABLE is not set
 # CONFIG_NSS_DRV_CLMAP_ENABLE is not set
 # CONFIG_NSS_DRV_CRYPTO_ENABLE is not set
 # CONFIG_NSS_DRV_DTLS_ENABLE is not set
 # CONFIG_NSS_DRV_GRE_ENABLE is not set
-CONFIG_NSS_DRV_IGS_ENABLE=y
+# CONFIG_NSS_DRV_IGS_ENABLE is not set
 # CONFIG_NSS_DRV_IPSEC_ENABLE is not set
 # CONFIG_NSS_DRV_IPV4_REASM_ENABLE is not set
 CONFIG_NSS_DRV_IPV6_ENABLE=y
@@ -2665,12 +2665,12 @@ CONFIG_NSS_DRV_IPV6_ENABLE=y
 # CONFIG_NSS_DRV_PORTID_ENABLE is not set
 # CONFIG_NSS_DRV_LSO_RX_ENABLE is not set
 CONFIG_NSS_DRV_PPPOE_ENABLE=y
-CONFIG_NSS_DRV_PPTP_ENABLE=y
+# CONFIG_NSS_DRV_PPTP_ENABLE is not set
 # CONFIG_NSS_DRV_PVXLAN_ENABLE is not set
 # CONFIG_NSS_DRV_QRFS_ENABLE is not set
 # CONFIG_NSS_DRV_QVPN_ENABLE is not set
 # CONFIG_NSS_DRV_RMNET_ENABLE is not set
-CONFIG_NSS_DRV_SHAPER_ENABLE=y
+# CONFIG_NSS_DRV_SHAPER_ENABLE is not set
 # CONFIG_NSS_DRV_SJACK_ENABLE is not set
 # CONFIG_NSS_DRV_TLS_ENABLE is not set
 # CONFIG_NSS_DRV_TRUSTSEC_ENABLE is not set
@@ -2679,29 +2679,29 @@ CONFIG_NSS_DRV_SHAPER_ENABLE=y
 # CONFIG_NSS_DRV_TUN6RD_ENABLE is not set
 # CONFIG_NSS_DRV_TUNIPIP6_ENABLE is not set
 CONFIG_NSS_DRV_VIRT_IF_ENABLE=y
-CONFIG_NSS_DRV_VLAN_ENABLE=y
+# CONFIG_NSS_DRV_VLAN_ENABLE is not set
 # CONFIG_NSS_DRV_VXLAN_ENABLE is not set
 # CONFIG_NSS_DRV_WIFIOFFLOAD_ENABLE is not set
 # CONFIG_NSS_DRV_WIFI_LEGACY_ENABLE is not set
 # end of Configuration
 
-CONFIG_PACKAGE_kmod-qca-nss-drv-bridge-mgr=y
+# CONFIG_PACKAGE_kmod-qca-nss-drv-bridge-mgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-clmapmgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-eogremgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-gre is not set
-CONFIG_PACKAGE_kmod-qca-nss-drv-igs=y
+# CONFIG_PACKAGE_kmod-qca-nss-drv-igs is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-l2tpv2 is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-lag-mgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-map-t is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-match is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-mirror is not set
 CONFIG_PACKAGE_kmod-qca-nss-drv-pppoe=y
-CONFIG_PACKAGE_kmod-qca-nss-drv-pptp=y
+# CONFIG_PACKAGE_kmod-qca-nss-drv-pptp is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-pvxlanmgr is not set
-CONFIG_PACKAGE_kmod-qca-nss-drv-qdisc=y
+# CONFIG_PACKAGE_kmod-qca-nss-drv-qdisc is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-tun6rd is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-tunipip6 is not set
-CONFIG_PACKAGE_kmod-qca-nss-drv-vlan-mgr=y
+# CONFIG_PACKAGE_kmod-qca-nss-drv-vlan-mgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-vxlanmgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-drv-wifi-meshmgr is not set
 # CONFIG_PACKAGE_kmod-qca-nss-macsec is not set
