@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder OP6.x
+name: OpenWrt Builder breeze
 
 on:
   repository_dispatch:
